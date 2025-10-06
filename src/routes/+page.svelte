@@ -4,9 +4,9 @@
 </script>
 
 <div
-  class="overflow-y-scroll xl:flex xl:justify-around xl:items-center bg-[#FEEDF4] xl:overflow-auto h-screen xl:h-screen snap-mandatory snap-y"
+  class="overflow-y-scroll xl:flex xl:justify-around xl:items-center bg-[#FEEDF4] xl:overflow-auto h-svh xl:h-screen snap-mandatory snap-y"
 >
-  <div class=" flex-col h-screen xl:h-full flex items-center py-8 snap-center">
+  <div class=" flex-col h-svh xl:h-full flex items-center py-8 snap-center">
     <!-- <div class="flex py-4 flex-col items-center"> -->
     <!--   <svg -->
     <!--     xmlns="http://www.w3.org/2000/svg" -->
@@ -26,9 +26,10 @@
     >
       <img class=" object-cover" alt="Oat Mocha Logo" src={sticker} />
       <p>website developer - leeds, UK</p>
+
       <p>oatmochadigital@gmail.com - Contact me!</p>
     </div>
-    <div class="flex flex-col xl:hidden items-center py-4">
+    <div class="flex flex-col xl:hidden items-center">
       <p class="">about me</p>
       <svg
         xmlns="http://www.w3.org/2000/svg"
