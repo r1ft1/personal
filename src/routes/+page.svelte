@@ -1,6 +1,6 @@
 <script lang="ts">
   import sticker from "$lib/assets/sticker.png";
-  import pic from "$lib/assets/pic.jpg";
+  import pic from "$lib/assets/compressed.jpg";
 </script>
 
 <div
